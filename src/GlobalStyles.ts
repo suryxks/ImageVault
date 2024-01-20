@@ -4,7 +4,7 @@ export const GlobalStyles = createGlobalStyle`
 :root{
     --dark-bg:#1C1C1C;
     --cta:#4F45E4;
-     --grey-border:#282828;
+    --grey-border:#282828;
     --white:#EDEDED;
     --btn-hover:#4a30f3;
     --card-bg:#232323; 
