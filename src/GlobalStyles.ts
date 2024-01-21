@@ -9,6 +9,9 @@ export const GlobalStyles = createGlobalStyle`
     --btn-hover:#4a30f3;
     --card-bg:#232323; 
     --btn-active:#6f44ee;
+    --tag-bg:#F5F5F5;
+    --tag-color:#767676;
+    height: 100%;
 }
 *, *::before, *::after {
   box-sizing: border-box;
